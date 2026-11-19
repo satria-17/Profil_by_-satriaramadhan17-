@@ -51,7 +51,7 @@ Warna dan gaya tampilan ada di dalam tag `<style>` di bagian atas file.
 
 ## Kontak
 
-- Email: info@contoh.com
+- Email: satriavictor98@gmail.com
 - Alamat: Surabaya, Jawa Timur
 
 ## Lisensi
